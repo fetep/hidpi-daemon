@@ -10,3 +10,4 @@ NoDisplay=true
 StartupNotify=false
 Categories=System;Settings;
 Name[en_US]=hidpi-daemon
+X-GNOME-Autostart-Phase=Initialization
